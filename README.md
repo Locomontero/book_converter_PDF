@@ -53,7 +53,7 @@ The Book Converter Application is a powerful tool designed to streamline the con
    ```
 5. Run the application:
    ```bash
-   java -jar target/book_converter_PDF.jar
+   java -jar target/embraer-1.0-SNAPSHOT.jar
    ```
 
 ## Usage
