@@ -1,4 +1,5 @@
 # Book Converter Application
+![Book Converter Diagram](image/book_converter_diagram.png)
 
 ## Overview
 The Book Converter Application is a powerful tool designed to streamline the conversion of books stored in a database into JSON format, and subsequently transform that JSON into a PDF file. This application is ideal for managing and distributing book data in a structured and readable format.
